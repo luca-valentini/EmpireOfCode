@@ -17,10 +17,10 @@ A text as a string.
 The secret message as a string or an empty string.
 
 ###Example
-'''
+```javascript
 find_message("How are you? Eh, ok. Low or Lower? Ohhh.") == "HELLO"
 find_message("hello world!") == ""
-'''
+```
 
 ###Precondition
 

@@ -27,5 +27,3 @@ The difference between the maximum and minimum as a number.
 ###How it is used
 
 The important concept to learn from this mission is about passing an undefined amount of arguments to functions.
-
-[Repository](https://github.com/Checkio-Game-Missions/checkio-empire-most-numbers.git)

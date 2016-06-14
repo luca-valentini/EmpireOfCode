@@ -9,7 +9,7 @@ A string with words.
 The answer as a boolean.
 
 ###Example
-```python
+```javascript
 three_words("Hello World hello") == True
 three_words("He is 123 man") == False
 three_words("1 2 3 4") == False
@@ -26,5 +26,3 @@ The input contains words and/or numbers. There are no mixed words (letters and d
 ###How it is used
 
 This teaches you how to work with strings and introduces some useful functions.
-
-[Repository](https://github.com/Checkio-Game-Missions/checkio-empire-three-words.git)
