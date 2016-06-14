@@ -1,4 +1,4 @@
-Count Inversion
+#Count Inversion
 
 All units should be numbered and the order is very important. But how do we deal with and measure irregularities?
 
@@ -11,21 +11,22 @@ Check out this example sequence: (1, 2, 5, 3, 4, 7, 6) and we can see here three
 7 and 6.
 You are given a sequence of unique numbers and you should count the number of inversions in this sequence.
 
-Input: A sequence as a tuple of integers.
+###Input: A sequence as a tuple of integers.
 
-Output: The inversion number as an integer.
+###Output: The inversion number as an integer.
 
-Example:
-
+###Example:
+'''python
 count_inversion((1, 2, 5, 3, 4, 7, 6)) == 3
 count_inversion((0, 1, 2, 3)) == 0
-Precondition:
+'''
+
+###Precondition:
 
 2 < |sequence| < 200
 
 All elements of a sequence are unique.
 
-How it is used:
+###How it is used:
 
 In this mission you will experience the wonder of nested loops, that is of course supposing you don't use advanced algorithms or black magic.
-
