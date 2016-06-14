@@ -16,10 +16,10 @@ You are given a sequence of unique numbers and you should count the number of in
 ###Output: The inversion number as an integer.
 
 ###Example:
-'''python
+```javascript
 count_inversion((1, 2, 5, 3, 4, 7, 6)) == 3
 count_inversion((0, 1, 2, 3)) == 0
-'''
+```
 
 ###Precondition:
 

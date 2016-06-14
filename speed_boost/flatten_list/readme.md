@@ -21,5 +21,3 @@ flatList([-1, [1, [-2], 1], -1]) // [-1, 1, -2, 1, -1]
 
 ###How it is used
 This concept is useful for parsing and analyzing files with complex structures and the task challenges your creativity in writing short code.
-
-[Repository](https://github.com/Checkio-Game-Missions/checkio-empire-flatten-list.git)
